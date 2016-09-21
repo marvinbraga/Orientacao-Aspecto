@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/08/16 15:33:39.000.815,=C:\Users\mv_br\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/16 15:34:34.000.245,G:\Programas\Delphi\RTTI\Unit1.pas=C:\Users\mv_br\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/16 15:34:34.000.245,G:\Programas\Delphi\RTTI\Unit1.fmx=C:\Users\mv_br\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2016/08/16 15:34:46.000.137,G:\Programas\Delphi\RTTI\TESTE_RTTI.dproj=C:\Users\mv_br\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/08/16 16:09:13.000.916,=G:\Programas\Delphi\RTTI\Unit2.pas</Transaction>
+    <Transaction>2016/08/16 16:09:25.000.856,G:\Programas\Delphi\RTTI\uValidation.pas=G:\Programas\Delphi\RTTI\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
